@@ -5,6 +5,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /** 
  * @title Voting
+ * @author Arnaud Planas
  * @dev Implement the voting contract.
  */
 contract Voting is Ownable {
